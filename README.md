@@ -3,4 +3,5 @@
 100 Day Code Challenge</br>
 #Day 6 is function and while loops.</br>
 Day 13 Debugging lessons for programs, and programming logic.</br>
+Day 18 Learned about using modules and using Turtle module. learned to use documentations of third party modules</br>
 
