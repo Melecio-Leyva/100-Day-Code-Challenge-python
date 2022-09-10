@@ -8,5 +8,5 @@ Day 20 Learned Used more Turtle GUI to create (Partial) snake game project.</br>
 day 21 Finished Snake project.</br>
 Day 22 Pong game project</br>
 Day 23 part1 turtle crossing project.</br>
-Day 24 working with files.
+Day 24 working with files.</br>
 Day 25 using Pandas to work with CSV files.
