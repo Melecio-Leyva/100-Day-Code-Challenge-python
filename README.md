@@ -7,4 +7,5 @@ Day 18 Learned about using modules and using Turtle module. learned to use docum
 Day 20 Learned Used more Turtle GUI to create (Partial) snake game project.</br>
 day 21 Finished Snake project.</br>
 Day 22 Pong game project</br>
-Day 23 part1 turtle crossing project.
+Day 23 part1 turtle crossing project.</br>
+Day 24 working with files.
