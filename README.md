@@ -12,4 +12,5 @@ Day 24 working with files.</br>
 Day 25 using Pandas to work with CSV files.</br>
 Day 26 List and dictionary comprehension. simple modifications to reduce blocks of code.</br>
 Day 27 Tkinter GUI learning *args, and **kwargs</br>
-Day 28 and 29 Tkinter GUI and Password manager and generator.
+Day 28 and 29 Tkinter GUI and Password manager and generator.</br>
+Day 30 and 31 Json format list conprehension, and Try error handling.
