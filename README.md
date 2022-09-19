@@ -14,4 +14,5 @@ Day 26 List and dictionary comprehension. simple modifications to reduce blocks 
 Day 27 Tkinter GUI learning *args, and **kwargs</br>
 Day 28 and 29 Tkinter GUI and Password manager and generator.</br>
 Day 30 and 31 Json format list conprehension, and Try error handling.</br>
-Day 32 STMP mail and flash card game
+Day 32 STMP mail and flash card game</br>
+Day 33 API and Request module learning.
