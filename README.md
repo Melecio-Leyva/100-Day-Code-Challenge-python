@@ -16,4 +16,5 @@ Day 28 and 29 Tkinter GUI and Password manager and generator.</br>
 Day 30 and 31 Json format list conprehension, and Try error handling.</br>
 Day 32 STMP mail and flash card game</br>
 Day 33 API and Request module learning.</br>
-Day 34 and 35 using API, with twilio and open weather map API
+Day 34 and 35 using API, with twilio and open weather map API</br>
+Day 36 Twilio API, New's API, and AlphaAvantage API to make stock alert system.
