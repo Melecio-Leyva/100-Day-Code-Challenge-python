@@ -17,4 +17,5 @@ Day 30 and 31 Json format list conprehension, and Try error handling.</br>
 Day 32 STMP mail and flash card game</br>
 Day 33 API and Request module learning.</br>
 Day 34 and 35 using API, with twilio and open weather map API</br>
-Day 36 Twilio API, New's API, and AlphaAvantage API to make stock alert system.
+Day 36 Twilio API, New's API, and AlphaAvantage API to make stock alert system.</br>
+day 37 HTTP headers, Put, Delete, and Post operations 
