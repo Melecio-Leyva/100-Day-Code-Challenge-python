@@ -19,4 +19,9 @@ Day 33 API and Request module learning.</br>
 Day 34 and 35 using API, with twilio and open weather map API</br>
 Day 36 Twilio API, New's API, and AlphaAvantage API to make stock alert system.</br>
 Day 37 HTTP headers, Put, Delete, and Post operations </br>
-Day 38 Google Sheets and Sheety API HTTP headers Auth.
+Day 38 and 39 Google Sheets and Sheety API HTTP headers Auth.</br>
+Day 40 and 41 Capstone project, API tracking flights.</br>
+Day 42-44 web foundation skippd already.
+
+
+
