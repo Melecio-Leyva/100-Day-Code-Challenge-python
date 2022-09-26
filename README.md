@@ -21,7 +21,8 @@ Day 36 Twilio API, New's API, and AlphaAvantage API to make stock alert system.<
 Day 37 HTTP headers, Put, Delete, and Post operations </br>
 Day 38 and 39 Google Sheets and Sheety API HTTP headers Auth.</br>
 Day 40 and 41 Capstone project, API tracking flights.</br>
-Day 42-44 web foundation skippd already.
+Day 42-44 web foundation skippd already knew HTML CSS.</br>
+Day 45 Using beautiful soup to learn about web scraping.
 
 
 
