@@ -22,7 +22,5 @@ Day 37 HTTP headers, Put, Delete, and Post operations </br>
 Day 38 and 39 Google Sheets and Sheety API HTTP headers Auth.</br>
 Day 40 and 41 Capstone project, API tracking flights.</br>
 Day 42-44 web foundation skippd already knew HTML CSS.</br>
-Day 45 Using beautiful soup to learn about web scraping.
-
-
-
+Day 45 Using beautiful soup to learn about web scraping.</br>
+Day 46 Web Scraping with BeautifulSoup Bill board top 100, and Creating Spotify API playlist with those top 100.
