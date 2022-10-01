@@ -26,4 +26,5 @@ Day 45 Using beautiful soup to learn about web scraping.</br>
 Day 46 Web Scraping with BeautifulSoup Bill board top 100, and Creating Spotify API playlist with those top 100.</br>
 Day 47 and 48 learning about Selenium and webscraping with it.</br>
 Day 49 Job application bot using selenium.</br>
-Day 50 and 51 Twitter complaint bot using selenium
+Day 50 and 51 Twitter complaint bot using selenium</br>
+Day 52 and 53 Instagram bot follower, and data entry using soup and Selenium with zillow.
