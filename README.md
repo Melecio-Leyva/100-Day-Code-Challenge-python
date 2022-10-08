@@ -31,3 +31,4 @@ Day 52 and 53 Instagram bot follower, and data entry using soup and Selenium wit
 Day 54 learning flask and backend web python development.</br>
 Day 58 learning bootstrap pt1.</br>
 Day 58 Bootstrap pt2.
+Day 59 finished bootsrap page, working with static flask headers and footers.
