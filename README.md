@@ -30,5 +30,6 @@ Day 50 and 51 Twitter complaint bot using selenium</br>
 Day 52 and 53 Instagram bot follower, and data entry using soup and Selenium with zillow.</br>
 Day 54 learning flask and backend web python development.</br>
 Day 58 learning bootstrap pt1.</br>
-Day 58 Bootstrap pt2.
-Day 59 finished bootsrap page, working with static flask headers and footers.
+Day 58 Bootstrap pt2.</br>
+Day 59 finished bootsrap page, working with static flask headers and footers.</br>
+Day 60 learning website design.
