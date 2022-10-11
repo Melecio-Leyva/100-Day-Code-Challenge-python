@@ -32,4 +32,5 @@ Day 54 learning flask and backend web python development.</br>
 Day 58 learning bootstrap pt1.</br>
 Day 58 Bootstrap pt2.</br>
 Day 59 finished bootsrap page, working with static flask headers and footers.</br>
-Day 60 learning website design.
+Day 60 learning website design.</br>
+Day 61 learning webstie design part 2
