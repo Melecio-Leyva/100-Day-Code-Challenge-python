@@ -35,5 +35,5 @@ Day 59 finished bootsrap page, working with static flask headers and footers.</b
 Day 60 learning website design.</br>
 Day 61 learning webstie design part 2</br>
 Day 62 Applying web design principles to existing blog template.</br>
-Day 63 recap Flask.
+Day 63 recap Flask.</br>
 Day 64 Flask deep dive, learning implementing python into html.
