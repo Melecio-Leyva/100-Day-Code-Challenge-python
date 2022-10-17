@@ -36,4 +36,5 @@ Day 60 learning website design.</br>
 Day 61 learning webstie design part 2</br>
 Day 62 Applying web design principles to existing blog template.</br>
 Day 63 recap Flask.</br>
-Day 64 Flask deep dive, learning implementing python into html.
+Day 64 Flask deep dive, learning implementing python into html.</br>
+Day 65 re-visting flask, to grab better understanding and re-reading documentation. Course a litle outdated. some solutions deprecated.
