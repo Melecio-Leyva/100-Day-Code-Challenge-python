@@ -38,4 +38,5 @@ Day 62 Applying web design principles to existing blog template.</br>
 Day 63 recap Flask.</br>
 Day 64 Flask deep dive, learning implementing python into html.</br>
 Day 65 re-visting flask, to grab better understanding and re-reading documentation. Course a little outdated. some solutions deprecated.</br>
-Day 66 re-taking flask course, and review flask documentation to get better understanding.
+Day 66 re-taking flask course, and review flask documentation to get better understanding.</br>
+Day 67 Added Styling and URL paths to Flask blog Capstone.
