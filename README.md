@@ -39,4 +39,5 @@ Day 63 recap Flask.</br>
 Day 64 Flask deep dive, learning implementing python into html.</br>
 Day 65 re-visting flask, to grab better understanding and re-reading documentation. Course a little outdated. some solutions deprecated.</br>
 Day 66 re-taking flask course, and review flask documentation to get better understanding.</br>
-Day 67 Added Styling and URL paths to Flask blog Capstone.
+Day 67 Added Styling and URL paths to Flask blog Capstone.</br>
+Day 68 Adding post and get methods to receive data from users in blog capstone.
