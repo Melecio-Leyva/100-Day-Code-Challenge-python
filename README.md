@@ -41,4 +41,4 @@ Day 65 re-visting flask, to grab better understanding and re-reading documentati
 Day 66 re-taking flask course, and review flask documentation to get better understanding.</br>
 Day 67 Added Styling and URL paths to Flask blog Capstone.</br>
 Day 68 Adding post and get methods to receive data from users in blog capstone.</br>
-Day 69 applying Flask WTF forms instead of HTML forms
+Day 69 applying Flask WTF forms instead of HTML forms, Part 2 bootstap/ flask
