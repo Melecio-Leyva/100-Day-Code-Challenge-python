@@ -42,4 +42,5 @@ Day 66 re-taking flask course, and review flask documentation to get better unde
 Day 67 Added Styling and URL paths to Flask blog Capstone.</br>
 Day 68 Adding post and get methods to receive data from users in blog capstone.</br>
 Day 69 applying Flask WTF forms instead of HTML forms, Part 2 bootstap/ flask</br>
-Day 70 made my own flask app using wtforms to make a library of books.
+Day 70 made my own flask app using wtforms to make a library of books.</br>
+Day 71 re-learning git, and hub commands, git add, commit, push, branch, and remove.
