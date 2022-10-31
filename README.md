@@ -46,4 +46,5 @@ Day 70 made my own flask app using wtforms to make a library of books.</br>
 Day 71 re-learning git, and hub commands, git add, commit, push, branch, and remove.</br>
 Day 72 building my own restful api.</br>
 Day 73 Created my own API using Flask and python, and SQLAlchemy for database, and used Postman to create post and get requests.</br>
-Day 74 Added RESTful API to existing blog post webstie.
+Day 74 Added RESTful API to existing blog post webstie.</br>
+Day 75 learning authentication.
