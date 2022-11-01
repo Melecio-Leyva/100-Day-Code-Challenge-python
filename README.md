@@ -47,5 +47,5 @@ Day 71 re-learning git, and hub commands, git add, commit, push, branch, and rem
 Day 72 building my own restful api.</br>
 Day 73 Created my own API using Flask and python, and SQLAlchemy for database, and used Postman to create post and get requests.</br>
 Day 74 Added RESTful API to existing blog post webstie.</br>
-Day 75 learning authentication.
+Day 75 learning authentication.</br>
 Day 76 Applying authentication to blog post challenge.
