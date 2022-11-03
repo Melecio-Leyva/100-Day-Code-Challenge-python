@@ -49,3 +49,4 @@ Day 73 Created my own API using Flask and python, and SQLAlchemy for database, a
 Day 74 Added RESTful API to existing blog post webstie.</br>
 Day 75 learning authentication.</br>
 Day 76 Applying authentication to blog post challenge.
+Day 77 add Users to new blog website, using authentication
