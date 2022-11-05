@@ -50,4 +50,5 @@ Day 74 Added RESTful API to existing blog post webstie.</br>
 Day 75 learning authentication.</br>
 Day 76 Applying authentication to blog post challenge.</br>
 Day 77 add Users to new blog website, using authentication</br>
-Day 78 learning to deploy the web app on HeroKu. using git.
+Day 78 learning to deploy the web app on HeroKu. using git.</br>
+Day 79 Data exploration using Pandas.
