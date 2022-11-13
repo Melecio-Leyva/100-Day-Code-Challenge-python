@@ -54,4 +54,5 @@ Day 78 learning to deploy the web app on HeroKu. using git.</br>
 Day 79 Data exploration using Pandas.</br>
 Day 80 learning data visualisation with matplotlib</br>
 Day 81 process more data using pandas LEGO data.</br>
-Day 82 Relearning Pandas, from Day 25 to understand concepts better.
+Day 82 Relearning Pandas, from Day 25 to understand concepts better.</br>
+day 83 Re-taking Lego module to understand pandas better.
